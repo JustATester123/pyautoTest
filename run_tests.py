@@ -16,6 +16,7 @@ logger = logging.getLogger(__name__)
 2、运行方式：
   > python run_tests.py  (回归模式，生成HTML报告)
   > python run_tests.py -m debug  (调试模式)
+  test
 '''
 
 
